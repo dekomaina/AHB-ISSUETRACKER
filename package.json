@@ -1,0 +1,9 @@
+{
+  "name": "ahb-issue-tracker",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "check": "node --check app.js"
+  }
+}
